@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd {
+    background-color: rgb(239, 177, 177);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#unique {
+    color: blue;
+    font-size: 36px;
+}
+
+#uniqueFour {
+    background-color: rgb(100, 246, 100);
+    font-weight: bold;
+}
